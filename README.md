@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="docs/header-light.svg">
-  <img alt="Kyrylo Myloserdov. Building Nightpost — the light stays on." src="docs/header-light.svg" width="100%">
+  <img alt="Kyrylo Myloserdov. Building Nightpost: a messenger, map and wallet — online or off." src="docs/header-light.svg" width="100%">
 </picture>
 
-I'm Kyrylo: 19, Ukrainian, a student at VŠB – Technical University of Ostrava in Czechia. I build **Nightpost**, an Android app for the hours when the network is gone: in blackouts, under jamming and after disasters, people still need to reach their family, find a shelter and pay. I build it as a solo founder, orchestrating a fleet of AI coding agents.
+I'm Kyrylo: 19, Ukrainian, a student at VŠB – Technical University of Ostrava in Czechia. I build **Nightpost**, a messenger, map and wallet in one Android app: message your people, find your way and pay, online or off. I build it as a solo founder, orchestrating a fleet of AI coding agents.
 
-Я українець, живу в Остраві. Знаю, як це — коли гасне світло.
+Я українець, живу в Остраві. Роблю Nightpost: пиши своїм, знаходь дорогу й плати — з інтернетом чи без.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/img/lockup-dark.svg">
@@ -14,7 +14,7 @@ I'm Kyrylo: 19, Ukrainian, a student at VŠB – Technical University of Ostrava
   <img alt="Nightpost" src="docs/img/lockup-light.svg" width="168">
 </picture>
 
-Messages, maps and money that keep working when the network doesn't. One Android app, an early version, not in a store yet.
+The network drops. Your people, your map and your money don't. One Android app, an early version, not in a store yet.
 
 **[Showcase on GitHub](https://github.com/Kiril003/phantom-solana)**: how money moves with no network, and the test-network records.<br>**[phantom-os.dev](https://phantom-os.dev)**: the early Android app, free to download.<!-- SLOT:film: when the film is online, replace this comment with <br> and, on a new line, **[The film](FILM_URL)**: one plain sentence on what it shows. -->
 
