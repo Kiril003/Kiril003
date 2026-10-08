@@ -8,13 +8,13 @@
 
 ### Kyrylo Myloserdov
 
-19, Ukrainian, a student at VŠB – Technical University of Ostrava, Czechia. Founder of Nightpost.
+Founder of Nightpost.
 
 **Nightpost joins everything your phone is for into one space.** Your chats, files, circles, map, day and money stop living in separate apps. An assistant sees how they fit, on your phone and on your PC.
 
 **Honest status: Solana devnet, zero users.** On the phone today: a messenger with no phone number, friends on the map by consent, and pay in chat. Calls, @nicknames and pages for places arrive in the next build.
 
-**Built with AI agents, checked on a real phone.** I set the direction and decide what ships. A fleet of AI coding agents writes and tests the code behind automated gates. A cofounder joined in October 2026.
+**Built with AI agents, checked on a real phone.** I set the direction and decide what ships. A fleet of AI coding agents writes and tests the code behind automated gates.
 
 ### Links
 
