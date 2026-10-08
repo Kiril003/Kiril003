@@ -8,19 +8,17 @@
 
 ### Kyrylo Myloserdov
 
-19, Ukrainian, a student at VŠB – Technical University of Ostrava, Czechia.
+19, Ukrainian, a student at VŠB – Technical University of Ostrava, Czechia. Founder of Nightpost.
 
-Я українець, живу в Остраві.
+**Nightpost joins everything your phone is for into one space.** Your chats, files, circles, map, day and money stop living in separate apps. An assistant sees how they fit, on your phone and on your PC.
 
-**Nightpost, in two lines.** Going out takes five apps and one friend who pays — the venue, the invite, the map, the split, the payback. Nightpost turns that into one evening, settled on Solana.
+**Honest status: Solana devnet, zero users.** On the phone today: a messenger with no phone number, friends on the map by consent, and pay in chat. Calls, @nicknames and pages for places arrive in the next build.
 
-**What I build.** Nightpost: an Android messenger, a map and a bill split paid on Solana's test network, built since April 2026 by an orchestrated fleet of AI coding agents I direct. A cofounder joined on 7 October 2026.
-
-**Status, honestly.** Devnet only. Zero users, zero venues today.
+**Built with AI agents, checked on a real phone.** I set the direction and decide what ships. A fleet of AI coding agents writes and tests the code behind automated gates. A cofounder joined in October 2026.
 
 ### Links
 
-- **[Showcase on GitHub](https://github.com/Kiril003/phantom-solana)** — the pitch, the scenes, and how to verify.
+- **[Showcase on GitHub](https://github.com/Kiril003/phantom-solana)** — what lives in Nightpost, honest status, how to verify.
 - **[phantom-os.dev](https://phantom-os.dev)** — the Android build, free to download.
 - **[Colosseum project](https://colosseum.com/arena/projects/nightpost)**
 
