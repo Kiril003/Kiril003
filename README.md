@@ -6,15 +6,11 @@
   </picture>
 </p>
 
-### Kyrylo Myloserdov
+### Nightpost
 
-Founder of Nightpost.
+**Nightpost joins everything your phone is for into one space.** Chats, files, circles, map, moments and money stop living in separate apps. An assistant sees how they fit, on your phone and on your PC.
 
-**Nightpost joins everything your phone is for into one space.** Your chats, files, circles, map, day and money stop living in separate apps. An assistant sees how they fit, on your phone and on your PC.
-
-**Honest status: Solana devnet, zero users.** On the phone today: a messenger with no phone number, friends on the map by consent, and pay in chat. Calls, @nicknames and pages for places arrive in the next build.
-
-**Built with AI agents, checked on a real phone.** I set the direction and decide what ships. A fleet of AI coding agents writes and tests the code behind automated gates.
+**Status: Solana devnet, test funds.** Built and on the phone: a messenger with no phone number, friends on the map by consent, and one-to-one pay in chat. In Build 18: calls, @nicknames, Builder pages for places. Next: circles, moments, agents on the PC.
 
 ### Links
 
