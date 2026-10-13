@@ -8,14 +8,15 @@
 
 ### Nightpost
 
-**Nightpost joins everything your phone is for into one space.** Chats, files, circles, map, moments and money stop living in separate apps. An assistant sees how they fit, on your phone and on your PC.
+**Everything your phone is for, joined into one space.** Chats and calls, people in circles, moments, the map, plans and money live together, with an assistant across them. Pay a person right in the chat, on Solana.
 
-**Status: Solana devnet, test funds.** Built and on the phone: a messenger with no phone number, friends on the map by consent, and one-to-one pay in chat. In Build 18: calls, @nicknames, Builder pages for places. Next: circles, moments, agents on the PC.
+**Build 17 on Android, Solana devnet, test funds.** On the phone today: chats without a phone number, circles, moments for the people you choose, a meetup card in the group, a bill split by dish and paid share by share in USDC, and an assistant that drafts a payment only your fingerprint sends. Next: an independent audit, then mainnet.
 
 ### Links
 
-- **[Showcase on GitHub](https://github.com/Kiril003/phantom-solana)** — what lives in Nightpost, honest status, how to verify.
-- **[phantom-os.dev](https://phantom-os.dev)** — the Android build, free to download.
+- **[Demo, 2:19](https://youtu.be/HMCDmwgEBbk)** · **[Pitch, 1:54](https://youtu.be/adhv_zvUgwE)**
+- **[Showcase on GitHub](https://github.com/Kiril003/phantom-solana)**: screens, honest status, how to verify, the deck and the APK.
+- **[phantom-os.dev](https://phantom-os.dev)**: the Android build, free to download.
 - **[Colosseum project](https://colosseum.com/arena/projects/nightpost)**
 
 <sub>© 2026 Kyrylo Myloserdov. All rights reserved.</sub>
